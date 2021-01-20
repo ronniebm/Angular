@@ -1,6 +1,6 @@
 ## Angular learning repository.
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsg.com.mx%2Frevista%2F56%2Fangular&psig=AOvVaw0kVx8l_P-np-O2gTaje5FI&ust=1611245853086000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJim1N_0qu4CFQAAAAAdAAAAABAE" width="200px">
 
---- 
 ### Steps to install/work_with angular in Ubuntu 18.04 LTS
 1) First we check all packages are uptaded/upgraded:
 ```
